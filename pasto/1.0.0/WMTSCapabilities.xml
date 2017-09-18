@@ -7,7 +7,7 @@
     <ows:Title>Servicios OGC WMTS de Pasto</ows:Title>
     <ows:Abstract xml:lang="es">Servicio OGC WMTS de Pasto</ows:Abstract>
     <ows:Keywords>
-      <ows:Keyword>barranquilla</ows:Keyword>
+      <ows:Keyword>Pasto</ows:Keyword>
       <ows:Keyword>colombia</ows:Keyword>
     </ows:Keywords>
     <ows:Fees>Ninguno</ows:Fees>
@@ -21,7 +21,7 @@
     <Layer>
       <ows:Identifier>Pasto</ows:Identifier>
       <ows:Title>Mapa base de Pasto</ows:Title>
-      <ows:Abstract>Mapa base de barranquilla a partir de datos OSM</ows:Abstract>
+      <ows:Abstract>Mapa base de Pasto a partir de datos OSM</ows:Abstract>
       <ows:BoundingBox crs="urn:ogc:def:crs:EPSG:6.18.3:3857">
         <ows:LowerCorner>-8564497.49437 91182.6743359</ows:LowerCorner>
         <ows:UpperCorner>-8624168.08102 148698.459642</ows:UpperCorner>
